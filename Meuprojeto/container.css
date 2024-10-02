@@ -1,0 +1,94 @@
+body{
+ 
+    background-image: url(imagens/5c7bd135417403.56f604003e0eb.jpg) ;
+  background-size: cover;
+     background-color: #86c7bf;
+  }
+
+
+
+
+.ctn1{
+  background-color: #86c7bf;
+    display: flex;
+    flex-direction: row;
+    border-radius: 40px;
+    justify-content:space-around ;
+    
+    
+}
+h1{
+  color: #e4e05f;
+  font-size: 5vw;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bloco1{
+  background-color: #f3db72;
+  border-radius: 15%;
+  width: 10vw;
+  flex: 1;
+  text-align: center;
+  padding: 1%;
+  h2{
+    font-size: 2vw;
+    color: #e7b740;
+  }
+  a{
+font-size: 130%;
+color: #ffffa3;
+}
+.bob{
+  
+    width: 150px ;
+    height: 100px;
+
+}
+}
+.bloco2{
+  background-color: #5ba8ee;
+  border-radius: 10%;
+  margin-left: 40%;
+  flex: 1;
+  padding: 1%;
+ 
+  p{
+  color: #7dbff7;
+  font-size: 130%;
+  display: flex;
+}
+h2{
+    color: #1778dd ;
+    text-align: center
+    ;
+    
+  }
+  .gary{
+    width: 150px ;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+  }
+
+
+}
+.blocos{
+  display:flex;
+  flex-direction: row;
+  margin-top: 5%;
+}
+.contato{
+  background-color: #006396;
+ 
+    display: flex;
+    flex-direction: row;
+    border-radius: 40px;
+    justify-content:space-around ;
+    margin-left: 30%;
+    
+    width: 40%;
+  p{
+    color: #52a8e0;
+    font-size: 1.5vw;
+  }
+}

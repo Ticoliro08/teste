@@ -1,0 +1,103 @@
+body{
+ 
+    background-image: url(imagens/ceu.webp) ;
+background-size: cover;
+
+     background-color: #86c7bf;
+  }
+.logo{
+  border-radius: 50%;
+  margin-top:5% ;
+  flex: 1;
+
+}
+
+
+
+.ctn1{
+  background-color: #5b7c9b;
+    display: flex;
+    flex-direction: row;
+    border-radius: 40px;
+    justify-content:space-around ;
+    
+    
+}
+h1{
+  color: #8fc9c0;
+  font-size: 5vw;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bloco1{
+  background-color: #3c9ec8;
+  border-radius: 15%;
+  margin-top: 5%;
+  width: 20vw;
+ 
+  
+  text-align: center;
+  padding: 1%;
+  h2{
+    font-size: 2vw;
+    color: #63b0a5;
+  }
+  a{
+font-size: 130%;
+color: #58c7d4;
+}
+.bob{
+  
+    width: 250px ;
+    height: 200px;
+
+}
+}
+.bloco2{
+  background-color: #60a1b1;
+  border-radius: 10%;
+  margin-left: 40%;
+  margin-top: 5%;
+  flex: 1;
+  padding: 1%;
+ 
+  p{
+  color: #a0c2cc;
+  font-size: 130%;
+  display: flex;
+}
+h2{
+    color: #8cced8;
+    text-align: center
+    ;
+    
+  }
+  .gary{
+    width: 350px ;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+  }
+
+
+}
+.blocos{
+display: flex;
+flex-direction: row;
+  
+}
+.contato{
+  background-color:#58c7d4 ;
+ 
+    display: flex;
+    flex-direction: row;
+    border-radius: 40px;
+    justify-content:space-around ;
+    margin-left: 30%;
+    
+    width: 40%;
+  p{
+    color: #3c9ec8;
+    font-size: 1.5vw;
+  }
+}

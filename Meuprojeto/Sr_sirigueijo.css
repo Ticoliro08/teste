@@ -1,0 +1,103 @@
+body{
+ 
+    background-image: url(imagens/SiriCascudo.webp) ;
+background-size: contain ;
+
+     background-color: ;
+  }
+.logo{
+  border-radius: 50%;
+  margin-top:5% ;
+  flex: 1;
+
+}
+
+
+
+.ctn1{
+  background-color: #ee7965;
+    display: flex;
+    flex-direction: row;
+    border-radius: 40px;
+    justify-content:space-around ;
+    
+    
+}
+h1{
+  color: #ea4e3a;
+  font-size: 5vw;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bloco1{
+  background-color: #4674bf;
+  border-radius: 15%;
+  margin-top: 5%;
+  width: 20vw;
+ 
+  
+  text-align: center;
+  padding: 1%;
+  h2{
+    font-size: 2vw;
+    color: #223a62;
+  }
+  a{
+font-size: 130%;
+color: #949cdc;
+}
+.bob{
+  
+    width: 250px ;
+    height: 200px;
+
+}
+}
+.bloco2{
+  background-color: #2d8938;
+  border-radius: 10%;
+  margin-left: 40%;
+  margin-top: 5%;
+  flex: 1;
+  padding: 1%;
+ 
+  p{
+  color: #55b25e;
+  font-size: 130%;
+  display: flex;
+}
+h2{
+    color: #38c958 ;
+    text-align: center
+    ;
+    
+  }
+  .gary{
+    width: 350px ;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+  }
+
+
+}
+.blocos{
+display: flex;
+flex-direction: row;
+  
+}
+.contato{
+  background-color: #92a452;
+ 
+    display: flex;
+    flex-direction: row;
+    border-radius: 40px;
+    justify-content:space-around ;
+    margin-left: 30%;
+    
+    width: 40%;
+  p{
+    color: #c3d0b9;
+    font-size: 1.5vw;
+  }
+}
